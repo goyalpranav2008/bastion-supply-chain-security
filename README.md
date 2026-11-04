@@ -58,4 +58,4 @@ All data in this repo is synthetic. This is a learning project and not productio
 
 ## Author
 
-Pranav Goyal. I'm a student learning cybersecurity by building in public. Progress updates on X: [add your X link here]
+Pranav Goyal. I'm a student learning cybersecurity by building in public. Progress updates on X: [https://x.com/GoyaprnvGoyal]
